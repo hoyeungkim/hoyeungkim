@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="100" viewBox="0 0 960 100" role="img" aria-labelledby="title">
+  <title id="title">Get in touch — youniline1214@gmail.com</title>
+  <defs>
+    <radialGradient id="graphite" cx=".5" cy=".6" r=".78">
+      <stop stop-color="#181A1C"/>
+      <stop offset=".65" stop-color="#101214"/>
+      <stop offset="1" stop-color="#0C0D0E"/>
+    </radialGradient>
+    <linearGradient id="wave">
+      <stop stop-color="#6985A4" stop-opacity="0"/>
+      <stop offset=".34" stop-color="#8FB8DF"/>
+      <stop offset=".53" stop-color="#B4D8F6"/>
+      <stop offset="1" stop-color="#637C98" stop-opacity=".24"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="959" height="99" rx="13" fill="url(#graphite)" stroke="#303438"/>
+  <g font-family="Avenir Next, Avenir, Helvetica, Arial, sans-serif">
+    <text x="34" y="36" font-weight="500" font-size="16" fill="#AABBCB">Get in touch</text>
+    <text x="33" y="73" font-weight="600" font-size="30" letter-spacing="-.6" fill="#F1F2E9">youniline1214@gmail.com <tspan fill="#8FB8DF">↗</tspan></text>
+  </g>
+  <g fill="none" stroke="url(#wave)" stroke-linecap="round">
+    <path stroke-width="1.7" d="M574 54C616 54 635 54 650 47S676 20 690 32S710 77 729 64S750 47 765 50S788 54 812 54H927"/>
+    <path opacity=".4" d="M574 54C616 54 635 54 650 50S676 29 690 36S711 69 729 61S750 49 765 51S788 54 812 54H927"/>
+    <path opacity=".24" d="M574 54C616 54 635 54 650 52S676 36 690 40S711 64 729 59S750 50 765 52S788 54 812 54H927"/>
+  </g>
+</svg>
