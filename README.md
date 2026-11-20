@@ -1,62 +1,59 @@
-<table>
-  <tr>
-    <td width="50%" valign="middle">
-      <h3>hoyeungkim</h3>
-      <p>
-        <strong>Backend Engineer</strong><br />
-        <sub>Interested in Infrastructure &amp; Machine Learning</sub>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-202020?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" height="22" />
-        <img src="https://img.shields.io/badge/FastAPI-202020?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" height="22" />
-        <img src="https://img.shields.io/badge/PostgreSQL-202020?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="22" />
-        <img src="https://img.shields.io/badge/Redis-202020?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis" height="22" />
-        <br />
-        <img src="https://img.shields.io/badge/Docker-303030?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" height="22" />
-        <img src="https://img.shields.io/badge/Kubernetes-303030?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" height="22" />
-        <img src="https://img.shields.io/badge/AWS-303030?style=flat-square" alt="AWS" height="22" />
-        <img src="https://img.shields.io/badge/LightFM-444444?style=flat-square" alt="LightFM" height="22" />
-      </p>
-    </td>
-    <td width="50%" valign="middle">
-      <img
-        src="https://github-stats-extended.vercel.app/api?username=hoyeungkim&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;hide=stars&amp;role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&amp;custom_title=GitHub%20Activity&amp;card_width=360&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=c9d1d9&amp;icon_color=8b949e"
-        alt="hoyeungkim's public GitHub activity"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>Tech Stack
-Backend & Data
+<img src="./hero.svg" width="100%" alt="Hi, I’m hoyeungkim." />
+
+## About Me
+
+<img src="./terminal.svg" width="100%" alt="hoyeungkim — Backend Engineer. Terminal introduction covering interests, engineering principles, and development workflow." />
+
+## Tech Stack
+
+### Backend & Data
+
 <p>
-  <img src="https://img.shields.io/badge/Pydantic-202020?style=flat-square&amp;logo=pydantic&amp;logoColor=white" alt="Pydantic" height="22" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-202020?style=flat-square&amp;logo=sqlalchemy&amp;logoColor=white" alt="SQLAlchemy" height="22" />
-  <img src="https://img.shields.io/badge/Alembic-202020?style=flat-square" alt="Alembic" height="22" />
-  <img src="https://img.shields.io/badge/PostGIS-202020?style=flat-square" alt="PostGIS" height="22" />
-  <img src="https://img.shields.io/badge/MongoDB-202020?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" height="22" />
-  <img src="https://img.shields.io/badge/SQLite-202020?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" height="22" />
+  <img src="https://img.shields.io/badge/Python-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEUAAAA3dKb%2F1UX%2FzDw2bZs3dqr%2F2Ej%2FzDv%2F1kg3dak4dqr%2Fyzo2bJc3bZw2cJ84cJ7%2Fxzj%2Fz0A3cJ%2F%2F0D%2F%2F20w4bJf%2Fz0A3cJ%2F%2F0D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkpbJKAAAAMHRSTlMA%2F%2F%2F%2F%2F7%2B%2Fv4CAQICAv%2F9AQICA%2F0BAQL%2B%2FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD7rHwGAAAAzklEQVR42nWRVwKDIBAFaUsRjSVqcv%2BTBpYisvH9DsM2xkoGAOAcwDGaAEoIdty5SmciNjIQeJmv6bkkVz0cUqKnWhhnKIlegFYIbVOfbYKXoBCR3lj0ChTnXURPqTHB9dZm8ir8MuqpkSGTpkKAbRsxB0NRSsnqsnerc0RmMteE9PrKOzCT4dax6EmfR5kt8SIcsM9ZEy%2BUTOtT%2F%2BCCy%2F1M05FhbNZg%2FHKdJkNr7eq97%2B6p2y%2FNIzz9E0SLwL1%2B6o3sa%2BL60uxERLz2M%2FwAoNsJJdaadY4AAAAASUVORK5CYII%3D" alt="Python" height="22" />
+  <img src="https://img.shields.io/badge/FastAPI-303030?style=flat-square&amp;logo=fastapi&amp;logoColor=009688" alt="FastAPI" height="22" />
+  <img src="https://img.shields.io/badge/PostgreSQL-303030?style=flat-square&amp;logo=postgresql&amp;logoColor=41697E" alt="PostgreSQL" height="22" />
+  <img src="https://img.shields.io/badge/Redis-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEUAAACSJibGMCuyLCnjmJX%2F%2F%2F%2BRJibxy8rUZGDFMCySJyfHMCuPKCjHMCxpHR2jKSgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABibtMtAAAAMHRSTlMA%2F%2F%2F%2F%2F%2F%2BA%2F%2F%2BAv79AQP%2B%2FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC901fPAAAAyklEQVR42q2RWQ7DIAxEvbCGhN7%2FtsWsJmk%2FKtWKFOPHDBMC8I%2B6rkQpfkaJAskT45OUMtYbeVN8IApm0iEXErz3RsbFlZgzcpOLKNhaQogRMeeM0gLXw7ydhoK5vaF03IYhiPvagQKx7yxxrDULoQN4Ndz5QsgR1EKJ6oqhzgbm2dQZdMkYD4sW6JgnLvfeOYjqxGLLalOSS%2BiWzHTTA26JcLMGfCaa1uBWdt7zHGf5Z04n2pGUc%2FrTNel83cEdKfknJHW64wv5ud7DhwYiuQfC0wAAAABJRU5ErkJggg%3D%3D" alt="Redis" height="22" />
+  <img src="https://img.shields.io/badge/Pydantic-303030?style=flat-square&amp;logo=pydantic&amp;logoColor=E92063" alt="Pydantic" height="22" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-303030?style=flat-square&amp;logo=sqlalchemy&amp;logoColor=D71F00" alt="SQLAlchemy" height="22" />
+  <img src="https://img.shields.io/badge/Alembic-303030?style=flat-square" alt="Alembic" height="22" />
+  <img src="https://img.shields.io/badge/PostGIS-303030?style=flat-square" alt="PostGIS" height="22" />
+  <img src="https://img.shields.io/badge/MongoDB-303030?style=flat-square&amp;logo=mongodb&amp;logoColor=47A248" alt="MongoDB" height="22" />
+  <img src="https://img.shields.io/badge/SQLite-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEUAAAAAPFgAPFgSgswAO1c1mdgAO1dpvOhQquCJ0PJ2w%2BxkuOYPgMwtdp0QgMtGpN1FhqUTdLELb68WZ5YkjtIzcIwARFVcsuQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBjy%2FxAAAAMHRSTlMAgED%2F%2F%2F%2B%2Fv%2F%2F%2F%2F%2F%2B%2F%2F4D%2F%2F%2F%2F%2F%2F%2F%2B%2FD%2F8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACZvsYUAAAAgUlEQVR42uWNCw7CMAxD7SyU8dkGG5%2F735S4BQRaTgBPbaLGtQP8ILdkNm4bVy9rcdpVTu6%2BFu%2F7ijNz9gcxhMgkthcDs1RsKrkRF2lLcaMRcQ0fuztxZkFoiGPqUe0tzhqQ1prEqPGqYhf%2FlCfzyynveBSmSCUVQ1v%2BjPiCxP%2FxAMToA01DF8K3AAAAAElFTkSuQmCC" alt="SQLite" height="22" />
 </p>
-Infrastructure
+
+### Infrastructure
+
 <p>
-  <img src="https://img.shields.io/badge/Amazon%20EKS-303030?style=flat-square" alt="Amazon EKS" height="22" />
-  <img src="https://img.shields.io/badge/Amazon%20RDS-303030?style=flat-square" alt="Amazon RDS" height="22" />
-  <img src="https://img.shields.io/badge/Amazon%20ECR-303030?style=flat-square" alt="Amazon ECR" height="22" />
-  <img src="https://img.shields.io/badge/CloudFormation-303030?style=flat-square" alt="CloudFormation" height="22" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-303030?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" height="22" />
-  <img src="https://img.shields.io/badge/CodeBuild-303030?style=flat-square" alt="CodeBuild" height="22" />
+  <img src="https://img.shields.io/badge/AWS-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FmQD%2F%2F%2F%2F%2FlwD%2FmgD%2FmQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADhi41rAAAAMHRSTlMA%2F0CA%2F79Av4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADcDrCeAAAAqUlEQVR42s1QSQ7EIAzLQpb%2Fv3hsKOLQVnOtBSnYxqSIfBBm9kqFAmaKra%2BCQWqaMDUkgj4UdQ45aVBCyQeMbhSvfA%2BHYjOakUzesoZRlHBHoDlp93UnnbNEhMOxz7AH3GWIVHaFlev0ckcTOAQzZDl8Uexb9s%2F8fZcb8oWuMVoa80lMyPjW6LxrlT1P9UDEMUCoUSl1RVIGClgLOs912Yum0vnSRaZ8GD9v3wMh8TOh5QAAAABJRU5ErkJggg%3D%3D" alt="AWS" height="22" />
+  <img src="https://img.shields.io/badge/Docker-303030?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" height="22" />
+  <img src="https://img.shields.io/badge/Kubernetes-303030?style=flat-square&amp;logo=kubernetes&amp;logoColor=326CE5" alt="Kubernetes" height="22" />
+  <img src="https://img.shields.io/badge/Amazon%20EKS-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEXldwzZaBLxhgbPWhfwuYb33MP6kgLrmEn2wYPfcA%2F74MHyoUb%2F%2F%2F%2Fhi08AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACyXB13AAAAMHRSTlP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABT2Q8YAAAAyklEQVR42n3R7RaDIAgGYBAYWu3%2Bb3d86DJX4xz%2F9PgqEsCoMtUrC26xrHiTfcJQwEm17nXWCVVY9m2rpwJiSxOxpbXULztGlkUhsZQ61BFRg0BZxdvaOycKZNpXfN9mbBHLLewnz2j3ekyB%2FUErxtGszJ6FWxSGB2wnAq%2BIdmw86eAbRGsolP1qRxrIPGZ1WGMdqWNwizFGz8aGlKngPsZsLJDwZD%2B6b7Giru8lfSLllcY24QYLUoYO4f5%2FL0g414r0Fy%2FaVvzNfgCDcwbNywFEFQAAAABJRU5ErkJggg%3D%3D" alt="Amazon EKS" height="22" />
+  <img src="https://img.shields.io/badge/Amazon%20RDS-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEU7R8tIZuhBV9ozNbpNdPU3PcHP1PWgq%2Bw%2BUNOdpOZEXuByhOZteNowLbKjsvPMze5wfeCbnuCam90AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWrLe%2BAAAAMHRSTlP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADYdXUpAAAA%2BElEQVR42nXRW5LEIAgFUDUTCIEx6d7%2FYucKUfuR4SNVqVMXEVOJ2vc86qdX2rre4dRvnljuEMxE9JrFbx1I%2FJmt1DHRxu%2Fn1kx5YnnL1vyCrfVZijJKc9Y%2B1kBMpa24av5AIxOkkFZirZeGCVmSE00hyji0ThRpH4t1KGPm6J3WgSTCin0wZo7OaYVaJJPZqUjiRtwRShLx1piBSnHm4oqJ0JZaYejWeXcM9bZ%2B35PHroCXmoiYmb%2FPteeGruYO3crZ9%2Bx4rOsjzWpv5O8buDzi3LFnxxL47FPNV3D8BT6P43jVdqHApsuYeYQvvNVtu%2FDfrON9tpQ%2Fl0wMIjNJO5oAAAAASUVORK5CYII%3D" alt="Amazon RDS" height="22" />
+  <img src="https://img.shields.io/badge/Amazon%20ECR-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEXtcQDylUD2uID73L%2F%2F%2F%2F8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACZHkrDAAAAMHRSTlP%2F%2F%2F%2F%2F%2FwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEeW%2BcAAAAbklEQVR42s3SSw7AIAgEUGbg%2FmeuoE3ETJdN68JoXpSPmv15IIJP5A6j5KIcgrlIse%2FbA8F2%2FxGQLTTCFWbodIXknCRGJYc3MCvp6Dei2tFwpplYCxz9my2LDGi%2B9XnjROg3pQ8Ux5aOIvDxb7wAw5gBMJjpxpgAAAAASUVORK5CYII%3D" alt="Amazon ECR" height="22" />
+  <img src="https://img.shields.io/badge/CloudFormation-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEXTKGnmOHfDGVz1RoP0ydndMXC8E1bul7fIHmDvQH61DVHWVojraZjija7fiqzgX48AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHnwdjAAAAMHRSTlP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACpwcFTAAAAzElEQVR42n3RURKDMAgE0G2KEpNo73%2FbQkANaUfG8cM3GwgCUsvyumvb3mcBs%2F7glP3Bf1ngIYugrYUsBmVieQYdkFlPZu7xriNaX5K8h%2B0zebFNRZ5FFqQzTDZz8yxyVpTsx9Cy3LNIoleyXfclfSGJ0t1Vx9GW7JgyYSzN8oWJcmXm2ptrEdumHLNPG%2FdsmOrOkCjFv4B17Vgr6o2ujjrzuA27r%2BC6KibbRpjZsHpRvBGK4HHsVjXet6P2PU%2BOWAaOioizlvKQnTDoF0U4CStPCSnSAAAAAElFTkSuQmCC" alt="CloudFormation" height="22" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-303030?style=flat-square&amp;logo=githubactions&amp;logoColor=2088FF" alt="GitHub Actions" height="22" />
+  <img src="https://img.shields.io/badge/CodeBuild-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEU7R8tBV9lIZ%2BgzNbrP1PVNdPWdpOagrO03PMFzhudtd9mjsvM%2BUNNEXuAwLbL%2F%2F%2F%2FNzu%2BbnuBpbdBvfeCanN4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADmQK37AAAAMHRSTlP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADc88sKAAAA%2FUlEQVR42nXS23KEIAwA0GRNCREtgv3%2Fb20SLk53acbh5ZgbCtjiPF8zvkbAMXSFj37yg7hCZeJ1ruEeiJkyMyfKSSOnP3iTMCGSJHqJnslzO2YWYT%2BFsh1pIuVshdkjkVUW6wseYaf77lNJmkMNBAoNUXiOPBH6PtozfWCgcOBNJIjatznEhkGfI9CILA1NNU0X0ne8sE7FA6MhdGSxBztupjMzBGSdV%2FF0NG09fSNdl%2BRB1eLT%2Bkaa62XtGxlusVS9w4bt%2B1rfjlup9dKy%2B1yF%2FCYb%2FpQrKvY4xs%2FR8YqxTpwK34b10ijw6EBXnznCGysu1Ssb%2FpvruM5F%2FAVd8A4wGMWigwAAAABJRU5ErkJggg%3D%3D" alt="CodeBuild" height="22" />
 </p>
-ML & AI
+
+### ML & AI
+
 <p>
-  <img src="https://img.shields.io/badge/NumPy-444444?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" height="22" />
-  <img src="https://img.shields.io/badge/SciPy-444444?style=flat-square&amp;logo=scipy&amp;logoColor=white" alt="SciPy" height="22" />
-  <img src="https://img.shields.io/badge/scikit--learn-444444?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" height="22" />
-  <img src="https://img.shields.io/badge/pandas-444444?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas" height="22" />
-  <img src="https://img.shields.io/badge/Amazon%20Bedrock-444444?style=flat-square" alt="Amazon Bedrock" height="22" />
-  <img src="https://img.shields.io/badge/Gemini-444444?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini" height="22" />
+  <img src="https://img.shields.io/badge/LightFM-303030?style=flat-square" alt="LightFM" height="22" />
+  <img src="https://img.shields.io/badge/NumPy-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEUAAABNq89Nd89Oq89Mq89Nq89OeM9MeM9Nd88AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD2J%2FjZAAAAMHRSTlMA%2F%2F%2BAQL%2BAQL8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC%2FJU7AAAAAyElEQVR42m3SCw4DIQgEUAVdvP%2BJK8P4oZGkm5JXQdiWckXrquUdrdcZb25aEf0h86GTe1tZKgh20rt49CKXshKy3obiO%2FuCNWqwN7L5EflSed0ZUAayerXGDwPFTm89X4le2NAtlphQ%2FGLR2wv%2B4efoz9gvsC8UoHAFjtgj0TK2FgP5KD5NQlw40Kbaxr62T7R5lBi9rttaGagtsVDVjLbuzJew8MP2BlHPnBXvzNGIe042jxgZb%2BLRe84UZwn51FbHF%2FHvlOgHTHYEK%2FV5ugsAAAAASUVORK5CYII%3D" alt="NumPy" height="22" />
+  <img src="https://img.shields.io/badge/SciPy-303030?style=flat-square&amp;logo=scipy&amp;logoColor=8CAAE6" alt="SciPy" height="22" />
+  <img src="https://img.shields.io/badge/scikit--learn-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEUAAAD4mTk0mc19TR33mTq6cyv3lzg%2FJw80l8v4mjkAAAA0mc36s2sCAgI0ms4BAQH8zJwBAQH95s4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACTv1teAAAAMHRSTlMA%2F%2F%2F%2FgP9A%2F0C%2FQID%2FgL%2B%2F%2F%2F%2F%2FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACZmjNWAAAAnklEQVR42tWRQRaDIAwFCUkAAyj2%2Foftr0qtVfftLFwwbx4kOvfXBJFwo2SgF3JVrQoM54x2vttAn4T78C1TSudwk6MHuYeltFZavzR7v1pIZqVHKVQgl9BvJIzBkY6zdJkhZyaNxKrMtdbJ1ivBOCyCIUCs1SBTlwLJEecxstZpcrO5nmaMokqKL2kwM2f7e%2FO%2BhONiU9%2BDyP0P%2B3meaWgEvRc1ersAAAAASUVORK5CYII%3D" alt="scikit-learn" height="22" />
+  <img src="https://img.shields.io/badge/pandas-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEUAAAATB1QUCFQTB1TnBIj%2FygDpAIf%2FzAD%2FygD%2FvwD%2F%2FwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACTS8wsAAAAMHRSTlMA%2F0C%2F%2BPQRKtUEAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC7vFwxAAAAYklEQVR42sXQ6wrAIAgF4DRv2%2Fs%2F8ChWsNIGg23%2BkPCDOJrSXAiQpxlijACAH2LNUrG8BsxlDmdzsf3toqpuITKzPsLdzHQdKFolOnzfU4joBUwiEuMq0P3hh%2FoX%2B4E9vNQB7dUCZg1cM5QAAAAASUVORK5CYII%3D" alt="pandas" height="22" />
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEUBqI2A1MbA6eNBvqr%2F%2F%2F8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABhVGUdAAAAMHRSTlP%2F%2F%2F%2F%2F%2FwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADEeW%2BcAAAAlUlEQVR42sVRQRLEIAwKkP%2B%2FuSTbta3Vc3NwMmIAScSnJewhErmBQfokqtMMMgqEwQRWIFT3yMWkgg02xVPSXpRCuvCG7EiBhV1K%2BhmqznXXpaeU%2FQ10kReFW7WbQas77RA3CTEbUj0wdStOcFmtdHHG%2FMih9OorJs3yFROof7aLhfU%2Bm4DvleWZ0Gx2WO4hbRau%2BL4OYF4BgcDhcHMAAAAASUVORK5CYII%3D" alt="Amazon Bedrock" height="22" />
+  <img src="https://img.shields.io/badge/OpenAI-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD7GByOAAAAMHRSTlMA%2F4BAv2QyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZFIwAAAAA30lEQVR42n2SURKEMAhDIWT3%2Fkfe0gQ7Os72Q2sfTRCImFVkJhBva5G98M6qIrAw%2BbiPZEn7RSDTMUlUAId2OIWyfDQ7WIYOL%2Fs4aMnUem%2FbUWTKDiEoB9I6K%2FTTO8NG9sETLh9Is7PO0Hkcz2P5gPPLxKZs2eqMcWBJm%2FmNr3PAgaP26YiOW%2BEHtpAeY6JUdt18vh9TN3QBMHDLVldPt9h%2FM5CCdJNVXEPnoPpDTSoK%2BtPpxtVtN7Hujb26DeU%2FZ0BVTdYzNOdGLw3ZzWdj0E3ek%2FEyu%2Fgz1%2Fv%2BKlJd3z9PlwNU4BEXwQAAAABJRU5ErkJggg%3D%3D" alt="OpenAI" height="22" />
+  <img src="https://img.shields.io/badge/Gemini-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEXeZ2tjmtLRlFaUkqDkriqueKGUzFyjrmc8ndAwsY5jqKzlxCllvHmlp91LwaDdpmdayndSxG8cu292tPDFzkFDxIMzxXt1rP08yIOZy%2FDUhqKWmtngyFAAAAA2ifxMjPQ8lOlNlPBNqa5mo%2FqvyUxxxm0uunXwTE9Im9NQtI7PyDeNhMdrjeTHaohotog4qa7HvHZCAAAAMHRSTlP08ff%2B%2Fv%2F6%2F%2F%2F%2F9fn%2Fl9qarPT%2Ffeyg24HUqJTUpgD%2F%2F%2F%2F7%2F878%2Bf7%2B%2F%2F%2F6%2F%2F%2F9%2F%2F9z224SAAAA90lEQVR42n3SaZODIAwGYBAqitp777WVy6tW%2F%2F%2B%2F21CdHbHS91vmmcxAEpTPg5BbOlVV%2BRFV6PsV3n0Ihu6ZB61tyDoia5vbzxpOduuyZ9wBguGuE9kSA2sE7ApRLgYQQsho14ua4Y6CMTBsxUaoCX8ppQED41iI0SAKAyaUTsh5LcRlFoXaJEnaVjPWc1nXC8zzswbULO0lrot%2FER%2FTg0KtdQgo62JScZp9JQxD0zcSR6MqdwgGtIHWh34tx7d%2FtEaAxel58MakjRxA8drKDqZphiHC68s%2BpHE8bD2XsC%2FLOOa%2BAwPceq%2FvrSz9mB%2BPLy7%2B%2FdMp%2FwBDZFEYP6oDxgAAAABJRU5ErkJggg%3D%3D" alt="Gemini" height="22" />
 </p>
-Tools & Media
+
+### Tools & Media
+
 <p>
-  <img src="https://img.shields.io/badge/Git-555555?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" height="22" />
-  <img src="https://img.shields.io/badge/pytest-555555?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="pytest" height="22" />
-  <img src="https://img.shields.io/badge/FFmpeg-555555?style=flat-square&amp;logo=ffmpeg&amp;logoColor=white" alt="FFmpeg" height="22" />
+  <img src="https://img.shields.io/badge/Git-303030?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" height="22" />
+  <img src="https://img.shields.io/badge/pytest-303030?style=flat-square&amp;logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAkFBMVEUAAAAAn%2BPH0wLwfhZpaWkAn%2BPI0ADG0gLfKBTfKBXwfxZoaGjfKBZMdojG0gPG0wLugBTufRfwfhaLbVIAn%2BMAp%2BTfKBXH1AEAn%2BMAoOGAg00AnODMxwVqamrSuwh1dVxpaWl%2BgVMAoOMAn%2BIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdp8QPAAAAMHRSTlMA%2Ff%2F9%2F7Q8dkD%2Ft0CAUVqIEFqKUVoUv7yKK1AxN4BlSL9Ni2AAAAAAAAAAAAAAAADg%2FlT6AAAAc0lEQVR42s3RRw6AMAwEwEAohpBOC738%2F49wBJQAJ8ReR7KtNUL%2FTFHXS8z5oJTKyhLOSCilc9OMWmuy54x9cMx0GZvnK2Osk1ICwHWp54Wx70cYp1mSwNeI7g6yVPQGhRButDf%2FhLyq3Oh%2B6C0a06L%2FZwPNUQZrw4%2BkewAAAABJRU5ErkJggg%3D%3D" alt="pytest" height="22" />
+  <img src="https://img.shields.io/badge/FFmpeg-303030?style=flat-square&amp;logo=ffmpeg&amp;logoColor=007808" alt="FFmpeg" height="22" />
 </p>
+
+<a href="mailto:youniline1214@gmail.com"><img src="./footer.svg" width="100%" alt="Get in touch — youniline1214@gmail.com" /></a>
